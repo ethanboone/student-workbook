@@ -9,3 +9,27 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
 2. What are the benefits of having multiple branches?
 
 3. What is the difference between Git and GitHub
+
+<!--
+markdown link: 
+[link-text](www.linkexample.com) 
+
+image:
+![alt text here](www.imageexample.com/200x200)
+
+italics:
+*italics* 
+
+bold:
+**bold**
+
+bold italic:
+***bold italic***
+
+strike:
+_strike_
+
+> this is a quote, it gets a special callout box
+
+`this gets a special highlight`
+-->
