@@ -1,4 +1,4 @@
-# Day 1 - Intro to Codeworks
+# Day 1
 
 What I learned in coding school is how to setup my environment.
 
