@@ -1,5 +1,5 @@
 # Day 2
-
+https://github.com/ethanboone/AfternoonChallenge
 ## Daily Journal
 Read Building Blocks Of Web Development > CSS and answer the following questions
 1. What is a Pseudo-Class and what are some of the most common ones you think you will use?
