@@ -1,5 +1,5 @@
 # Day 1
-
+https://ethanboone.github.io/JavascriptBasics/
 ## Daily Journal
 Read Intro to JS > Var, let and const and answer the following questions
 1. What is Scope ?
