@@ -1,5 +1,6 @@
 # Day 2
-
+https://ethanboone.github.io/JavascriptChallengesLoopsAndArrays/
+Didn't get as much done as I had hoped, got stuck on a stretch goal for arrays.
 ## Daily Journal
 Read Intro to JS > JavaScript Functions and answer the following questions
 1. What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
