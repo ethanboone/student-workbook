@@ -1,5 +1,5 @@
 # Day 4
-
+Afternoon Challenge: https://ethanboone.github.io/SlapGame/
 ## Daily Journal
 Read Intro to JS > The Mistakes I Made As a Beginner Programmer and answer the following questions
 1. What are the benefits of making a plan before starting to just write the code?
