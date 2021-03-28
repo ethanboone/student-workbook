@@ -1,5 +1,5 @@
 # Day 3
-
+https://ethanboone.github.io/AfternoonChallengeWeek2Day3/
 ## Daily Journal
 Read Intro to JS > Chrome Developer Tools and answer the following questions
 1. What are the main ways to write information to the console? Why/when should you use each style.
