@@ -1,5 +1,5 @@
 # Day 3 
-
+https://ethanboone.github.io/afternoonprojectweek3day3/
 ## Daily Journal
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions
 1. What are the two common operations that we will set in the handler?
