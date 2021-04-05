@@ -1,5 +1,5 @@
 # Day 1
-
+https://ethanboone.github.io/day1afternoonchallenge/
 ## Daily Journal
 Read Asynchronous Code > Callback Hell and answer the following questions
 1. What are some of the signs and causes of Callback Hell?
