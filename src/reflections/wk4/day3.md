@@ -1,5 +1,5 @@
 # Day 3 
-
+https://ethanboone.github.io/week4day3afternoonchallenge/
 ## Daily Journal
 Read Asynchronous Code > Async and Await and answer the following questions
 1. What is the purpose of Async/Await?
