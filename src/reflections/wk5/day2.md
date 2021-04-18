@@ -1,5 +1,5 @@
 # Day 2
-
+https://ethanboone.github.io/day2afternoonchallenge/
 ## Daily Journal
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
 1. What are the three types of relationships?
