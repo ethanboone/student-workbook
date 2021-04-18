@@ -1,5 +1,5 @@
 # Day 3
-
+https://ethanboone.github.io/week5day3afternoonchallenge/
 ## Daily Journal 
 
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
