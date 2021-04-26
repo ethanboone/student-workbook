@@ -1,3 +1,7 @@
+# Day 2
+
+## Daily Journal
+
 Read Advancing with Vue 3 > Code documentation for JavaScript with JSDoc: an introduction and answer the following questions
 1. What is Code Documentation? What are some of the ways to document code?
 
