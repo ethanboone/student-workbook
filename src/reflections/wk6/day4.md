@@ -1,5 +1,5 @@
 # Day 4
-
+https://davidparker83686.github.io/blogger/
 ## Daily Journal
 Read Frontend Frameworks with Vue3 > Using Nested Routes in Vue.js and answer the following questions
 1. What is a nested route?

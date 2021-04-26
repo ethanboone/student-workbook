@@ -1,5 +1,5 @@
 # Day 1 
-
+https://github.com/ethanboone/week6day1afternoonchallenge
 ## Daily Journal 
 Read Frontend Frameworks with Vue3 > Understanding Component Based Architecture and answer the following questions
 1. What is Component based architecture?

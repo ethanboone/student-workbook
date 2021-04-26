@@ -1,5 +1,5 @@
 # Day 2
-
+https://github.com/ethanboone/week6day2morningchallenge
 ## Daily Journal
 Daily Journal
 Read Frontend Frameworks with Vue3 > How to use Props in Vue and answer the following questions
