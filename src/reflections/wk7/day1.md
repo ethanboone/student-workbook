@@ -1,5 +1,5 @@
 # Day 1
-
+https://github.com/davidparker83686/kanban
 ## Daily Journal
 Read Advancing with Vue 3 > Pair Programming and answer the following questions
 1. What is Pair Programming? What are the roles and how do they work?
