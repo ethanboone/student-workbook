@@ -1,5 +1,5 @@
 # Day 3
-
+https://github.com/davidparker83686/kanban
 ## Daily Journal
 Read Advancing with Vue 3 > Designing a Strong User Experience and answer the following questions
 1. What is a User Experience? What should be considered when developing a User Experience?

@@ -1,5 +1,5 @@
 # Day 4
-
+https://github.com/davidparker83686/kanban
 ## Daily Journal
 Reflect on your partner project and answer the following questions
 1. Which principles from this weeks reading did you implement?
