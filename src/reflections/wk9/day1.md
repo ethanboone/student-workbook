@@ -1,5 +1,5 @@
 # Day 1
-
+https://github.com/davidparker83686/capstone
 ## Daily Journal
 Reflect on your capstone project so far and answer the following questions
 What technologies and principles are you using in your project?

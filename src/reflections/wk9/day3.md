@@ -1,5 +1,5 @@
 # Day 3
-
+https://github.com/davidparker83686/capstone
 ## Daily Journal
 Read Working In a Professional Environment > Scrum for Small teams
 1. How are some ways Scrum for a small team would differ from Scrum with a large team?
