@@ -1,5 +1,5 @@
 # Day 4
-
+https://github.com/LoganPonder/spice
 ## Daily Journal
 Read Foundations of C# > C# Enum's and answer the following questions
 1. What is an Enum, and what are some use cases for them?

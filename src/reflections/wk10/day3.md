@@ -1,5 +1,5 @@
 # Day 3
-
+https://github.com/ethanboone/week10day3afternoon
 ## Daily Journal 
 Read Dotnet WebAPI's > Welcome to SQL, and answer the following questions
 1. In a SQL table, what is the difference between information in a row and information in a column?
