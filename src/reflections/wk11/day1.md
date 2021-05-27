@@ -1,5 +1,5 @@
 # Day 1
-
+https://github.com/ethanboone/spring21-burgershack
 ## Daily Journal
 Read Foundations of C# > C# Inheritance and answer the following questions
 1. What does Inheritance accomplish for us in C#?
